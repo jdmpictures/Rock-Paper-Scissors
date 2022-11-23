@@ -45,11 +45,17 @@ function game(){
     for(i = 1; i < 5; i++) {
         playRound();
     }
-
     if(playerWinCount > computerWinCount){
         console.log('Player wins the game!')
     } else {
         console.log('You lost to a computer lol.')
     }
+
+    resetGame();
     
+}
+
+function resetGame(){
+    playerWinCount = 0;
+    computerWinCount = 0;
 }
