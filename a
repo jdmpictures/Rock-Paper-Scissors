@@ -1,0 +1,35 @@
+[33mcommit 626ddce889582cf6a8f5e523105555337bc14b52[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/rps-ui[m[33m, [m[1;32mrps-ui[m[33m)[m
+Author: jdmpictures <74938827+jdmpictures@users.noreply.github.com>
+Date:   Thu Dec 8 23:48:12 2022 +0000
+
+    Finishing tweeks added
+
+[33mcommit d21438c79f83f17266576167ef92fb8f39b8a3d2[m
+Author: jdmpictures <74938827+jdmpictures@users.noreply.github.com>
+Date:   Mon Dec 5 19:13:42 2022 +0000
+
+    GUI added and mutiple other updates to script.js
+
+[33mcommit d5666ae8465e7555e04f6e650ae05ff92865f28b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: jdmpictures <74938827+jdmpictures@users.noreply.github.com>
+Date:   Wed Nov 23 23:06:02 2022 +0000
+
+    Added resetGame function
+
+[33mcommit 609c7b7e772be3825096aebace9529289591ac37[m
+Author: jdmpictures <74938827+jdmpictures@users.noreply.github.com>
+Date:   Wed Nov 23 22:49:09 2022 +0000
+
+    Added game function
+
+[33mcommit 20f5d12e63b93abe2f5c7ca86680592869ae6cd3[m
+Author: jdmpictures <74938827+jdmpictures@users.noreply.github.com>
+Date:   Wed Nov 23 22:17:04 2022 +0000
+
+    playRound function added
+
+[33mcommit 3b12973b064384f8f922119a04391fa7d441026e[m
+Author: jdmpictures <74938827+jdmpictures@users.noreply.github.com>
+Date:   Tue Nov 22 16:50:02 2022 +0000
+
+    getPlayerChoice and getComputerChoice functions added
