@@ -1,12 +1,12 @@
 
 @font-face{ 
     font-family: babish;
-    src: url(../../BARBJSH.TTF);
+    src: url(@{plChildRoot}/fonts/BARBJSH.TTF);
 }
 
 @font-face {
     font-family: typewriter;
-    src: url(../../TypewriterScribbled.ttf);
+    src: url(@{plChildRoot}/fonts/TypewriterScribbled.ttf);
 }
 
 * {
