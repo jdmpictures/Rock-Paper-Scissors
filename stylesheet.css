@@ -1,12 +1,12 @@
 
 @font-face{ 
     font-family: babish;
-    src: url(@{plChildRoot}/fonts/BARBJSH.TTF);
+    src: url(/fonts/BARBJSH.TTF);
 }
 
 @font-face {
     font-family: typewriter;
-    src: url(@{plChildRoot}/fonts/TypewriterScribbled.ttf);
+    src: url(/fonts/TypewriterScribbled.ttf);
 }
 
 * {
@@ -76,13 +76,13 @@ html, body{
 
 
 h1 {
-    font-family: babish;
+    font-family: 'babish';
     font-size:  5rem;
     text-align: center;
 }
 
 h2 {
-    font-family: typewriter;
+    font-family: 'typewriter';
     font-size: 2rem;
     text-align: center;
     
