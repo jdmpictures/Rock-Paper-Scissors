@@ -17,11 +17,11 @@ const playerRestartButton = document.querySelector('.player-reset-button')
 const computerRestartButton = document.querySelector('.computer-reset-button')
 
 
-const rockSound = new Audio('/audio/impact_brick_hit_ground_002.mp3');
-const paperSound = new Audio('/audio/paper-sound.mp3');
-const scissorsSound = new Audio('/audio/scissors.mp3');
-const homer = new Audio('/audio/homer.mp3')
-const homerTwo = new Audio('/audio/homer2.mp3')
+const rockSound = new Audio('/Rock-Paper-Scissors//audio/impact_brick_hit_ground_002.mp3');
+const paperSound = new Audio('/Rock-Paper-Scissors//audio/paper-sound.mp3');
+const scissorsSound = new Audio('/Rock-Paper-Scissors//audio/scissors.mp3');
+const homer = new Audio('/Rock-Paper-Scissors//audio/homer.mp3')
+const homerTwo = new Audio('/Rock-Paper-Scissors//audio/homer2.mp3')
 
 const playerScore = document.querySelector('#player-score');
 playerScore.textContent = "Player score 0"
